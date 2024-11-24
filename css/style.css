@@ -344,7 +344,7 @@ select.form-control.has-value{
 .main-menu ul>li a{
     margin: 0 0 0 20px;
     font-size: 15px;
-    color: #ff6666;
+    color: #87ff66d9;
     display: block;
     font-weight: 400;
     background-color: transparent;
@@ -353,7 +353,7 @@ select.form-control.has-value{
 }
 .main-menu ul>li .submenu{
     width: 250px;
-    background-color: #ff6666;
+    background-color: #87ff66d9;
     border: 1px solid #ebebeb;
     border-radius: 4px;
     position: absolute;
